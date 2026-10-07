@@ -1,0 +1,2 @@
+1_verifyTheLogoutFunctionality=false
+ts-2VerifyNewHolidaysCouldBeCreated=false
